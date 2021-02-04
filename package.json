@@ -19,7 +19,7 @@
 		"type": "git",
 		"url": "https://github.com/giannif/buoy-js.git"
 	},
-	"main": "dist/bundle.js",
+	"main": "dist/buoy.js",
 	"dependencies": {
 		"ramda": "^0.18.0"
 	},
